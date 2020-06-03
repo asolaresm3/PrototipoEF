@@ -80,7 +80,7 @@ namespace Capa_Diseño.Mantenimientos
 
         private void Btn_cerrar_Click(object sender, EventArgs e)
         {
-            this.WindowState = FormWindowState.Minimized;
+            this.Dispose();
         }
 
         private void Btn_ingresar_Click(object sender, EventArgs e)

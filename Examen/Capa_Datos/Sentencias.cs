@@ -49,7 +49,7 @@ namespace Capa_Datos
             {
                 cn.conexionbd();
                 string consulta = "insert into " + datos[0] + " values(" + query + ");";
-                Console.WriteLine(consulta);
+               
                 comm = new OdbcCommand(consulta, cn.conexionbd());
                 OdbcDataReader mostrar = comm.ExecuteReader();
                 return mostrar;

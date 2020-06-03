@@ -383,6 +383,7 @@
             this.Name = "Frm_Mantenimiento_Clientes";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Frm_Mantenimiento_Clientes";
+            this.Load += new System.EventHandler(this.Frm_Mantenimiento_Clientes_Load);
             this.Pnl_nombreForm.ResumeLayout(false);
             this.Pnl_nombreForm.PerformLayout();
             this.ResumeLayout(false);

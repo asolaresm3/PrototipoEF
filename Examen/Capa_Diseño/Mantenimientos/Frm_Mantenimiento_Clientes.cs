@@ -199,5 +199,10 @@ namespace Capa_Diseño.Mantenimientos
 
             }
         }
+
+        private void Frm_Mantenimiento_Clientes_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

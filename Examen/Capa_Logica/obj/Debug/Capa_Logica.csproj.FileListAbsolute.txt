@@ -1,0 +1,9 @@
+C:\Users\prueb\Desktop\Examen\Capa_Logica\bin\Debug\Capa_Logica.dll
+C:\Users\prueb\Desktop\Examen\Capa_Logica\bin\Debug\Capa_Logica.pdb
+C:\Users\prueb\Desktop\Examen\Capa_Logica\bin\Debug\Capa_Datos.dll
+C:\Users\prueb\Desktop\Examen\Capa_Logica\bin\Debug\Capa_Datos.pdb
+C:\Users\prueb\Desktop\Examen\Capa_Logica\obj\Debug\Capa_Logica.csprojAssemblyReference.cache
+C:\Users\prueb\Desktop\Examen\Capa_Logica\obj\Debug\Capa_Logica.csproj.CoreCompileInputs.cache
+C:\Users\prueb\Desktop\Examen\Capa_Logica\obj\Debug\Capa_Logica.csproj.CopyComplete
+C:\Users\prueb\Desktop\Examen\Capa_Logica\obj\Debug\Capa_Logica.dll
+C:\Users\prueb\Desktop\Examen\Capa_Logica\obj\Debug\Capa_Logica.pdb

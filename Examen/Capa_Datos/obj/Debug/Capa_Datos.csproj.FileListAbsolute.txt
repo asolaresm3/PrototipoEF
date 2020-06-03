@@ -1,0 +1,5 @@
+C:\Users\prueb\Desktop\Examen\Capa_Datos\bin\Debug\Capa_Datos.dll
+C:\Users\prueb\Desktop\Examen\Capa_Datos\bin\Debug\Capa_Datos.pdb
+C:\Users\prueb\Desktop\Examen\Capa_Datos\obj\Debug\Capa_Datos.csproj.CoreCompileInputs.cache
+C:\Users\prueb\Desktop\Examen\Capa_Datos\obj\Debug\Capa_Datos.dll
+C:\Users\prueb\Desktop\Examen\Capa_Datos\obj\Debug\Capa_Datos.pdb

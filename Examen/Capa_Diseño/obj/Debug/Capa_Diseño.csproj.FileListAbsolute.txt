@@ -1,0 +1,26 @@
+C:\Users\prueb\Desktop\Examen\Capa_Diseño\bin\Debug\Capa_Diseño.exe.config
+C:\Users\prueb\Desktop\Examen\Capa_Diseño\bin\Debug\Capa_Diseño.exe
+C:\Users\prueb\Desktop\Examen\Capa_Diseño\bin\Debug\Capa_Diseño.pdb
+C:\Users\prueb\Desktop\Examen\Capa_Diseño\obj\Debug\Capa_Diseño.csprojAssemblyReference.cache
+C:\Users\prueb\Desktop\Examen\Capa_Diseño\obj\Debug\Capa_Diseño.Properties.Resources.resources
+C:\Users\prueb\Desktop\Examen\Capa_Diseño\obj\Debug\Capa_Diseño.csproj.GenerateResource.cache
+C:\Users\prueb\Desktop\Examen\Capa_Diseño\obj\Debug\Capa_Diseño.csproj.CoreCompileInputs.cache
+C:\Users\prueb\Desktop\Examen\Capa_Diseño\obj\Debug\Capa_Diseño.exe
+C:\Users\prueb\Desktop\Examen\Capa_Diseño\obj\Debug\Capa_Diseño.pdb
+C:\Users\prueb\Desktop\Examen\Capa_Diseño\bin\Debug\Capa_Logica.dll
+C:\Users\prueb\Desktop\Examen\Capa_Diseño\bin\Debug\Capa_Logica.pdb
+C:\Users\prueb\Desktop\Examen\Capa_Diseño\obj\Debug\Capa_Diseño.csproj.CopyComplete
+C:\Users\prueb\Desktop\Examen\Capa_Diseño\obj\Debug\Capa_Diseño.Menu.resources
+C:\Users\Angel Solares\Desktop\Examen Final IS\Tercera Serie\Examen\Capa_Diseño\obj\Debug\Capa_Diseño.csprojAssemblyReference.cache
+C:\Users\Angel Solares\Desktop\Examen Final IS\Tercera Serie\Examen\Capa_Diseño\obj\Debug\Capa_Diseño.Menu.resources
+C:\Users\Angel Solares\Desktop\Examen Final IS\Tercera Serie\Examen\Capa_Diseño\obj\Debug\Capa_Diseño.Properties.Resources.resources
+C:\Users\Angel Solares\Desktop\Examen Final IS\Tercera Serie\Examen\Capa_Diseño\obj\Debug\Capa_Diseño.csproj.GenerateResource.cache
+C:\Users\Angel Solares\Desktop\Examen Final IS\Tercera Serie\Examen\Capa_Diseño\obj\Debug\Capa_Diseño.csproj.CoreCompileInputs.cache
+C:\Users\Angel Solares\Desktop\Examen Final IS\Tercera Serie\Examen\Capa_Diseño\obj\Debug\Capa_Diseño.exe
+C:\Users\Angel Solares\Desktop\Examen Final IS\Tercera Serie\Examen\Capa_Diseño\obj\Debug\Capa_Diseño.pdb
+C:\Users\Angel Solares\Desktop\Examen Final IS\Tercera Serie\Examen\Capa_Diseño\bin\Debug\Capa_Diseño.exe.config
+C:\Users\Angel Solares\Desktop\Examen Final IS\Tercera Serie\Examen\Capa_Diseño\bin\Debug\Capa_Diseño.exe
+C:\Users\Angel Solares\Desktop\Examen Final IS\Tercera Serie\Examen\Capa_Diseño\bin\Debug\Capa_Diseño.pdb
+C:\Users\Angel Solares\Desktop\Examen Final IS\Tercera Serie\Examen\Capa_Diseño\bin\Debug\Capa_Logica.dll
+C:\Users\Angel Solares\Desktop\Examen Final IS\Tercera Serie\Examen\Capa_Diseño\bin\Debug\Capa_Logica.pdb
+C:\Users\Angel Solares\Desktop\Examen Final IS\Tercera Serie\Examen\Capa_Diseño\obj\Debug\Capa_Diseño.csproj.CopyComplete
